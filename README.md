@@ -1,3 +1,4 @@
+![image](https://github.com/Duffy617/AI-for-Medical-Prognosis/blob/master/Force%20plots.png)
 【AI-for-Medical-Prognosis】
 
 ★Project1:Build and Evaluate a Linear Risk model <br />
