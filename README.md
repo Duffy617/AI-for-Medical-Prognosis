@@ -1,7 +1,7 @@
 ![image](https://github.com/Duffy617/AI-for-Medical-Prognosis/blob/master/Force%20plots.png)<br />
-【AI-for-Medical-Prognosis】
+# 【**AI-for-Medical-Prognosis**】
 
-★Project1:Build and Evaluate a Linear Risk model <br />
+## ★Project1:Build and Evaluate a Linear Risk model <br />
 
 1. Data preprocessing <br />
 -Log transformations <br />
@@ -11,7 +11,7 @@
 -C-index <br />
 -Interactions Terms <br />
 
-★Project2:Risk Models Using Tree-based Models <br />
+## ★Project2:Risk Models Using Tree-based Models <br />
 
 1. Dealing with Missing Data <br />
 -Complete Case Analysis <br />
@@ -22,13 +22,13 @@
 3.Random Forests <br />
 -Hyperparameter Tuning <br />
 
-★Project3:Survival Estimates that Varies with Time <br />
+## ★Project3:Survival Estimates that Varies with Time <br />
 
 1. Censored Data <br />
 2. Kaplan-Meier Estimates <br />
 3. Subgroup Analysis <br />
 
-★Projects4:Cox Proportional Hazards and Random Survival Forests <br />
+## ★Projects4:Cox Proportional Hazards and Random Survival Forests <br />
 
 1. Cox Proportional Hazards <br />
 -Data Preprocessing for Cox Models <br />
