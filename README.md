@@ -2,9 +2,6 @@
 
 ★Project1:Build and Evaluate a Linear Risk model <br />
 
-![image] 
-(https://github.com/Duffy617/AI-for-Medical-Prognosis/blob/master/pro1.png)
-
 1. Data preprocessing <br />
 -Log transformations <br />
 -Standardization <br />
